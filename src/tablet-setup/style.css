@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#tablet {
+  background-color: #037a9a;
+  height: 100vh;
+  /* Huion workspace is 221mm × 138mm */
+  width: calc(1080px * 138 / 221);
+}
